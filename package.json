@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurushothamaG96/qr-code-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurushothamaG96/qr-code-reader/issues"
+  },
+  "homepage": "https://github.com/PurushothamaG96/qr-code-reader#readme",
+  "dependencies": {
+    "html5-qrcode": "^2.3.7"
+  }
+}
